@@ -1,0 +1,79 @@
+id: d3610096274d4423840f8affbd94e9a1
+annotation_type: index
+revision: '00001'
+annotations:
+  e64a4e8f5efb4bcb8d9c645522f428e4:
+    base: 2B5E.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 13
+    - title: Preface
+      span:
+        start: 14
+        end: 310
+    - title: §1-20
+      span:
+        start: 311
+        end: 6690
+    - title: §21-40
+      span:
+        start: 6691
+        end: 12800
+    - title: §41-60
+      span:
+        start: 12801
+        end: 16130
+    - title: §61-80
+      span:
+        start: 16131
+        end: 21235
+    - title: §81-100
+      span:
+        start: 21236
+        end: 23557
+    - title: §101-120
+      span:
+        start: 23558
+        end: 26681
+    - title: §121-140
+      span:
+        start: 26682
+        end: 30380
+    - title: §141-160
+      span:
+        start: 30381
+        end: 32059
+    - title: §161-180
+      span:
+        start: 32060
+        end: 35139
+    - title: §181-200
+      span:
+        start: 35140
+        end: 41684
+    - title: §201-220
+      span:
+        start: 41685
+        end: 45489
+    - title: §221-240
+      span:
+        start: 45490
+        end: 51956
+    - title: §241-260
+      span:
+        start: 51957
+        end: 70052
+    - title: §261-280
+      span:
+        start: 70053
+        end: 79005
+    - title: §281-283
+      span:
+        start: 79006
+        end: 79522
+    - title: Colophon
+      span:
+        start: 79523
+        end: 79533

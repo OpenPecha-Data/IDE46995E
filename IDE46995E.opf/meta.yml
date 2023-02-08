@@ -1,0 +1,16 @@
+id: IDE46995E
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:23:14.210755
+last_modified: 2023-02-08 16:23:14.210870
+source_metadata:
+  title: Mahāvyutpatti with sGra sbyor bam po gñis pa
+  language: zh
+bases:
+  2B5E:
+    base_file: 2B5E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
